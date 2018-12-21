@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    host: bee.rmq.cloudamqp.com
+    username: swojgaxs
+    password: QSBTDwzjS1_o_drZQA0O1HQPDKybLVC6
